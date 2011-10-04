@@ -1,0 +1,14 @@
+pawns capturing figures
+all other figures capturing figures
+promotion of pawns
+
+an passant
+rokada
+king checks
+kings moving
+
+
+switch board
+improve notation
+forward and back navigation of board
+load pgn

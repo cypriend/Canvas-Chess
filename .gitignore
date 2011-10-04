@@ -1,0 +1,14 @@
+bin/
+obj/
+build.output/
+*.suo
+*.user
+*.manifest
+.DS_Store
+.svn
+_ReSharper*
+*.vspscc
+src/AwsSharp.Tests/App.config
+*.pidb
+thumbs.db
+*.userprefs
